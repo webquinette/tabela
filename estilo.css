@@ -1,0 +1,28 @@
+.livre{ background-color: silver;
+    border: silver;
+    
+}
+
+th, td{
+    border:1px solid black;
+}
+
+.borda{
+    border-top: 2px solid red;
+    border-left: 2px solid red ;
+    border-right: 2px solid red ;
+    border-bottom: 2px solid red ;
+}
+
+.titulo{background-color: rgb(201, 38, 133);
+    border: rgb(235, 9, 167);
+    font-size: 25px;
+    
+
+}
+
+.titulo2{
+    background-color: rgb(128, 61, 100);
+    border: rgb(235, 9, 167);
+}
+
